@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(void)
+{
+	FILE *fp=fopen("test.txt","w");
+
+	fprintf(fp,"test1");
+
+	fclose(fp);
+	return 0;
+
+]
