@@ -1,0 +1,13 @@
+strace ./a.out result
+munmap(0x7f7b2ff8b000, 89313)           = 0
+syscall_332(0x7ffc07e06188, 0x7ffc07e06198, 0, 0x4005b0, 0x7f7b2fd8eab0, 0x400540) = 0
+exit_group(0)                           = ?
+
+
+
+
+dmesg result
+[   36.700732] audit: type=1400 audit(1513896467.672:45): apparmor="DENIED" operation="open" profile="/usr/lib/lightdm/lightdm-guest-session" name="/proc/1/cgroup" pid=1943 comm="gvfs-udisks2-vo" requested_mask="r" denied_mask="r" fsuid=999 ouid=0
+[   96.126010] choo: hello kernel
+[  113.954223] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x30e557538e7, max_idle_ns: 440795263472 ns
+
