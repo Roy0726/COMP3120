@@ -1,0 +1,42 @@
+MP3120]:Hello, kernel
+[  285.619918] [COMP3120] Good bye, kernel
+[  294.404111] [COMP3120]:Hello, kernel
+[  296.658834] [COMP3120] Good bye, kernel
+[  819.527407] [Choo]: Hello Choo~ This is init
+[  819.527408] *
+[  819.527408] *
+[  819.527408] *
+
+[  819.527409] *
+[  819.527409] *
+[  819.527409] *
+
+[  819.527410] *
+[  819.527410] *
+[  819.527410] *
+
+[  826.507418] this is exit of choo_kernel
+[  826.507419] [COMP3120] Good bye, kernel
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+
